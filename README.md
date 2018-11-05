@@ -19,5 +19,5 @@ Ejecuta e inicia el script para que puedes realizar el auto roll de freebitcoin.
 
 **Donar**
 
-Si desea agradecer por el script, quizás donando algo de lo ganado, sabré agradecer y me ayudara para seguir compartiendo este tipo de herramientas: 1Kxp2KV4sMvFWybyHLr1khq3eNoLJXmUAg
+Si desea agradecer por el script, quizás donando algo de lo ganado, sabré agradecer y me ayudara para seguir compartiendo este tipo de herramientas: BitCoin:1Kxp2KV4sMvFWybyHLr1khq3eNoLJXmUAg
 
