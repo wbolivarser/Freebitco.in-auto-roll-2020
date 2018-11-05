@@ -6,7 +6,7 @@ Los scripts de usuario son pequeñas porciones de código que añaden funcionali
 
 1) Instala un administrador de scripts de usuario: para añadir scripts de usuario primero tienes que instalar un administrador de scripts. La opción a elegir depende del navegador que utilices.
 
-    *Chrome: Tampermonkey o Violentmonkey
+    *Chrome: Tampermonkey o Violentmonkey <br/>
     *Firefox: Greasemonkey, Tampermonkey, o Violentmonkey
     *Safari: Tampermonkey
     *Microsoft Edge: Tampermonkey
