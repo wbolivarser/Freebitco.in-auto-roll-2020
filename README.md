@@ -16,13 +16,9 @@ Los scripts de usuario son pequeñas porciones de código que añaden funcionali
 https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2018
 
 ## *¿Como funciona?*
-Este bot solo hace clic en roll (no funciona en cuentas que tienen que llenar el captcha), solo tiene que dejar abierta la página freebitco.in y el script realiza el trabajo por usted.
-
-## *Control de cambios
-V.2 - Selecciona de forma automática los REWARD POINTS BONUS, hasta poder tener suficientes puntos para seleccionar FREE BTC BONUS 1000% btc (solo en la recompensa más alta).
-
 V.1 - Este bot solo hace clic en roll (no funciona en cuentas que tienen que llenar el captcha), solo tiene que dejar abierta la página freebitco.in y el script realiza el trabajo por usted.
 
+V.2 - Selecciona de forma automática los REWARD POINTS BONUS, hasta poder tener suficientes puntos para seleccionar FREE BTC BONUS 1000% btc (solo en la recompensa más alta).
 
 ## **Donar**
 
