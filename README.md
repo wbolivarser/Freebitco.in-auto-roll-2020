@@ -17,6 +17,9 @@ https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2018
 
 Ejecuta e inicia el script para que puedes realizar el auto roll de freebitcoin.
 
+***¿Como funciona?***
+Este bot solo hace clic en roll (no funciona en cuentas que tienen que llenar el captcha), solo tiene que dejar abierta la página freebitco.in y el script realiza el trabajo por usted.
+
 **Donar**
 
 Si desea agradecer por el script, quizás donando algo de lo ganado, sabré agradecer y me ayudara para seguir compartiendo este tipo de herramientas: BitCoin:1Kxp2KV4sMvFWybyHLr1khq3eNoLJXmUAg
