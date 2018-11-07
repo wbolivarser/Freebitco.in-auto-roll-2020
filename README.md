@@ -12,7 +12,7 @@ Los scripts de usuario son pequeñas porciones de código que añaden funcionali
     *Microsoft Edge: Tampermonkey<br/>
     *Opera: Tampermonkey o Violentmonkey<br/>
 
-2) Luego de instalar el administrador de script, debes instalar nuestro script, desde:
+2) Luego de instalar el administrador de script, debes instalar nuestro script, desde:<br/>
 https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2018
 
 Ejecuta e inicia el script para que puedes realizar el auto roll de freebitcoin.
