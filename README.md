@@ -13,7 +13,7 @@ Los scripts de usuario son pequeñas porciones de código que añaden funcionali
     *Opera: Tampermonkey o Violentmonkey<br/>
 
 2) Luego de instalar el administrador de script, debes instalar nuestro script, desde:<br/>
-https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2018
+https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2020
 
 ## *¿Como funciona?*
 V.1 - Este bot solo hace clic en roll (no funciona en cuentas que tienen que llenar el captcha), solo tiene que dejar abierta la página freebitco.in y el script realiza el trabajo por usted.
