@@ -1,8 +1,8 @@
 // ==UserScript==
-// @version      2.0
+// @version      2.1
 // @author       ING. Wuilmer Bolivar
 // @match        https://freebitco.in/*
-// @name         Freebitco.in auto roll 2018
+// @name         Freebitco.in auto roll 2020
 // @namespace    https://greasyfork.org/users/223895
 // @description  Necesita crear una cuenta para que funcione en https://freebitco.in/?r=6316189
 // @license      GPL-3.0
@@ -48,9 +48,10 @@ var reward = {};
                 RedeemRPProduct('free_points_100');
             }
             if ($('#bonus_span_fp_bonus').length === 0)
-                if (reward.points >= 4400)
+                if (reward.points >= 4400){
                     RedeemRPProduct('fp_bonus_1000');
         }
+      }
     };
     body.prepend(
         $('<div/>').attr('style',"position:fixed;top:45px;left:0;z-index:999;width:350px;background-color:black;color: white; text-align: left;")
