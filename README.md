@@ -1,4 +1,4 @@
-# Freebitco.in-auto-roll-2018
+# Freebitco.in-auto-roll-2020
 *Antes de empezar, es necesario si aun no la tienes que crees una cuenta para que funcione en <br/> https://freebitco.in/?r=6316189*
 
 ¿Qué son los scripts de usuario?
