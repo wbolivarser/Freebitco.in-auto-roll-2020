@@ -17,11 +17,11 @@ Los scripts de usuario son pequeñas porciones de código que añaden funcionali
 
 1) Instala un administrador de scripts de usuario: para añadir scripts de usuario primero tienes que instalar un administrador de scripts. La opción a elegir depende del navegador que utilices.
 
-    *Chrome: Tampermonkey o Violentmonkey <br/>
-    *Firefox: Greasemonkey, Tampermonkey, o Violentmonkey<br/>
-    *Safari: Tampermonkey<br/>
-    *Microsoft Edge: Tampermonkey<br/>
-    *Opera: Tampermonkey o Violentmonkey<br/>
+    *Chrome: Tampermonkey o Violentmonkey
+    *Firefox: Greasemonkey, Tampermonkey, o Violentmonkey
+    *Safari: Tampermonkey
+    *Microsoft Edge: Tampermonkey
+    *Opera: Tampermonkey o Violentmonkey
 
 2) Luego de instalar el administrador de script, debes instalar nuestro script, desde:<br/>
 https://greasyfork.org/es/scripts/373993-freebitco-in-auto-roll-2020
